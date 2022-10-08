@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "guardianBank_App",
+    "slug": "guardianBank_App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
