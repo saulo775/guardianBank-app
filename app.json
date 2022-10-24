@@ -3,6 +3,12 @@
     "name": "guardianBank_App",
     "slug": "guardianBank_App",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./src/assets/splashScreen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]

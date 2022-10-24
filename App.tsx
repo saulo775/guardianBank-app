@@ -1,11 +1,10 @@
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
-import { Welcome } from './src/Components/Welcome';
+import { StyleSheet, View, Text } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Welcome title='hello world'/>
+      <Text>hello</Text>
     </View>
   );
 }
@@ -13,7 +12,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ee1d1d',
+    backgroundColor: '#24E6AA',
     alignItems: 'center',
     justifyContent: 'center',
   },
